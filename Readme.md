@@ -1,8 +1,5 @@
 
-
-
-
-#Git Course
+# Git Course
 
 
 Arquivo teste
